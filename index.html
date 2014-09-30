@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<div class="home" markdown="block">
+    {% capture intro %}{% include homepage-intro.md %}{% endcapture %}
+    {{ intro | markdownify }}
+</div>

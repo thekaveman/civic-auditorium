@@ -1,0 +1,7 @@
+- [About the Civic](/about/)
+  - [History](/about/history/)
+- [Planning Process](/planning/)
+  - [Civic Working Group](/planning/cwg/)
+  - [Project Library](/planning/library/)
+  - [Community Workshops](/planning/workshops/)
+- [Rent the Civic](/rent/)
