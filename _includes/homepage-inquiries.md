@@ -1,5 +1,5 @@
-Visioning process inquiries: [Lisa Luboff Varon](mailto:lisa.luboff@smgov.net), 310-458-8350 
+Visioning process inquiries: [Lisa Luboff Varon](mailto:lisa.luboff@smgov.net), {{ site.phone }}
 
-Event space or filming rental: [Liz Dugan](mailto:elizabeth.dugan@smgov.net), 310-458-4924 
+Event space or filming rental: [Liz Dugan](mailto:elizabeth.dugan@smgov.net), {{ site.rental_phone }}
 
-To send your comments to the Civic Working Group (CWG), you can send an email to <civic@smgov.net>. Letters from the public are shared at the CWG monthly meetings.
+To send your comments to the Civic Working Group (CWG), you can send an email to {{ site.email }}. Letters from the public are shared at the CWG monthly meetings.

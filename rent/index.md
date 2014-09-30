@@ -8,7 +8,7 @@ The Civic Auditorium is currently available for limited filming, photo shoots, p
 For rental availability and fees please contact:  
 Liz Dugan, Sales and Marketing Coordinator  
 <elizabeth.dugan@smgov.net>  
-310-458-4924
+{{ site.rental_phone }}
 
 ## Film, TV and Photo Shoots at the Civic
 

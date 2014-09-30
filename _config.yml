@@ -10,6 +10,8 @@ city: Santa Monica
 state: CA
 zip: 90401
 map_url: https://www.google.com/maps/place/Santa+Monica+Civic+Auditorium/@34.009085,-118.489339,17z
+phone: 310-458-8350
+rental_phone: 310-458-4924 
 
 defaults:
   - 
