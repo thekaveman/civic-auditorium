@@ -15,6 +15,10 @@ map_url: "https://www.google.com/maps/place/Santa+Monica+Civic+Auditorium/@34.00
 phone: 310-458-8350
 rental_phone: 310-458-4924 
 
+collections:
+
+  - workshops
+
 defaults:
   - 
     scope:
