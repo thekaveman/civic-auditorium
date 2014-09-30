@@ -6,3 +6,9 @@ layout: default
     {% capture intro %}{% include homepage-intro.md %}{% endcapture %}
     {{ intro | markdownify }}
 </div>
+
+<div class="home">
+    {% capture inquiries %}{% include homepage-inquiries.md %}{% endcapture %}
+    {{ inquiries | markdownify }}
+    {% include emma.html %}
+</div>
